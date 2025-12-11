@@ -62,6 +62,8 @@ const influencers = [
 ]
 
 const brands = [
+  {name:"Sri Silk India", logo: "./brands/Sri-Silk-India.jpg" },
+  {name:"Adira", logo: "./brands/Adira.jpg" },
   { name: "Alchemy", logo: "./brands/alchemy.png" },
   { name: "Ekadhi", logo: "./brands/ekadhi.png" },
   { name: "Emmadi", logo: "./brands/emmadi.png" },

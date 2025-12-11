@@ -236,6 +236,8 @@ const VideoItem = ({ src }: { src: string }) => {
 
 const VideographyCard = () => {
     const videos = [
+        "/videos/video.mp4",
+        "/videos/video-0.mp4",
         "/videos/video-1.mp4",
         "/videos/video-2.mp4",
         "/videos/video-3.mp4",
