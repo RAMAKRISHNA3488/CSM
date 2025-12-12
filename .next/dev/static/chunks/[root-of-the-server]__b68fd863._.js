@@ -2197,18 +2197,17 @@ const aboutCards = [
     // Card 8: Web Designers Images
     {
         color: "#0a0a0a",
-        title: [
-            "NARASIMHA",
-            "RAMA KRISHNA"
-        ],
+        title: "",
         description: "WEB DESIGN TEAM",
         label: "",
         images: [
             {
-                src: "./images/dev1.jpg"
+                src: "./images/dev1.jpg",
+                name: "NARASIMHA"
             },
             {
-                src: "./images/dev2.jpg"
+                src: "./images/rk.png",
+                name: "RAMA KRISHNA"
             }
         ]
     },
