@@ -252,7 +252,7 @@ const VideographyCard = () => {
             title="Videography"
             icon={Video}
             description="Cinematic storytelling in motion."
-            className="col-span-1 md:col-span-2 min-h-[300px]"
+            className="col-span-1 md:col-span-2 min-h-[400px]"
         >
             <div className="absolute inset-x-0 top-12 bottom-20 z-10 mb-2">
                 {/* Mask */}
